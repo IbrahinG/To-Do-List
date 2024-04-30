@@ -13,4 +13,4 @@ This is a simple Python script that allows you to create and manage a to-do list
 
 - Python 3.x
 
-- ![To-Do List Screenshot](screenshot.png)
+- ![To-Do List Screenshot](image.png)
